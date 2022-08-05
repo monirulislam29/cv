@@ -93,8 +93,8 @@ width:1000px ;
         <div class="section">
           
           <h1>Contact</h1>
-          <p><a href="tel:+01799733805" class="fas fa-phone-alt"> +8801623218618</a></p>
-          <p><a href="mailto:monirulislam284655@gmail.com"  class="fas fa-envelope-open"> programmermahbub@gmail.com </a></p>
+          <p><a href="tel:+01799733805" class="fas fa-phone-alt"> +01799733805</a></p>
+          <p><a href="mailto:monirulislam284655@gmail.com"  class="fas fa-envelope-open"> monirulislam284655@gmail.com </a></p>
           <p><a href="https://goo.gl/maps/xUXVkNzVNCXA9Cnr6" class="fas fa-map-marker-alt"> 51, West Rajabazar, Tejgaon, Dhaka </a></p>
        
         </div>
@@ -103,6 +103,7 @@ width:1000px ;
           <p><a href="www.linkedin.com/in/monirul-islam-1734b422a" class="fab fa-line"> LinkedIn</a></p>
           <p><a href="https://www.facebook.com/profile.php?id=100010330728334" class="fab fa-facebook"> Facebook</a></p>
        <p><a href="https://github.com/monirulislam29/" class="fab fa-github"> Github</a></p>
+        <p><a href="https://twitter.com/mi_tokon?t=49e1PvY7b-lxuURvLDn82A&s=09" class="fab fa-twitter"> Github</a></p>
         </div>
        
         <div class="section">
